@@ -3,8 +3,6 @@
 Welcome to my personal portfolio website 👋  
 This project showcases my skills, projects, and journey as a web developer.
 
-🌐 Live Website: https://NishantRathor.github.io/my-portfolio/
-
 ---
 
 ## 📌 About Me
